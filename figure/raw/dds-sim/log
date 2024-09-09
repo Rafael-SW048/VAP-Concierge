@@ -1,0 +1,559 @@
+Error: Invalid handle.
+Concierge initlized
+Illegal "match"
+Container DDS1 now has 50bps BW
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8684210526315789
+Notified container DDS1 for realloction
+Notified container DDS1 for realloction
+App from localhost:5001 checked in
+Illegal "match"
+Container DDS1 now has 25bps BW
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8684210526315789
+Notified container DDS1 for realloction
+Notified container DDS1 for realloction
+Container DDS2 now has 25bps BW
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7058823529411765
+Notified container DDS2 for realloction
+Notified container DDS2 for realloction
+App from localhost:5002 checked in
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6122448979591837
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7777777777777778
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 25bps BW
+Container DDS2 now has 25bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-2.5918263091284643e-08), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-2.5918263091284643e-08)]
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6122448979591837
+Notified container DDS2 for realloction
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7777777777777778
+Notified container DDS1 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6046511627906976
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7714285714285715
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 25bps BW
+Container DDS2 now has 25bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-2.5918263091284643e-08), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-2.5918263091284643e-08)]
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6046511627906976
+Notified container DDS2 for realloction
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7714285714285715
+Notified container DDS1 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.48888888888888893
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.75
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 25bps BW
+Container DDS2 now has 25bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-2.5918263091284643e-08), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-2.5918263091284643e-08)]
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.48888888888888893
+Notified container DDS2 for realloction
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6585365853658536
+Notified container DDS1 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.47619047619047616
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8125
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 25bps BW
+Container DDS2 now has 25bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-2.5918263091284643e-08), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-2.5918263091284643e-08)]
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5365853658536586
+Notified container DDS2 for realloction
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8125
+Notified container DDS1 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.3_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5454545454545455
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5901639344262296
+[-0.         -0.03809524]
+Start tc for all application
+Container DDS1 now has 20bps BW
+Container DDS2 now has 30bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-4.999999999624784), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=4.999999999459174)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5901639344262296
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.3_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5454545454545455
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7659574468085107
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6896551724137931
+[-0.         -0.03703704]
+Start tc for all application
+Container DDS1 now has 19bps BW
+Container DDS2 now has 31bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-0.9999999999996271), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=0.9999999999960636)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7659574468085107
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6896551724137931
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7222222222222223
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6285714285714286
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 21bps BW
+Container DDS2 now has 29bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=1.791116480390891), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-1.7911164806921942)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7222222222222223
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6511627906976745
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8205128205128205
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 22bps BW
+Container DDS2 now has 28bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=0.8845769100667256), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-0.884576910110737)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7945205479452055
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7666666666666666
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.3_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5142857142857143
+[-0.         -0.02747253]
+Start tc for all application
+Container DDS1 now has 19bps BW
+Container DDS2 now has 31bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-2.9999999999990687), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=2.999999999992286)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7666666666666666
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.3_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5142857142857143
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8461538461538461
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5084745762711865
+[-0.         -0.02337541]
+Start tc for all application
+Container DDS1 now has 19bps BW
+Container DDS2 now has 31bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=1.6760334642153291e-09), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-4.318251534130013e-09)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8461538461538461
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5084745762711865
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7766990291262136
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.3_37_30_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6551724137931034
+[-0.         -0.05521651]
+Start tc for all application
+Container DDS1 now has 19bps BW
+Container DDS2 now has 31bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=6.865959228107633e-10), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-1.216832856698602e-09)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7142857142857143
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.3_37_30_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6551724137931034
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7422680412371135
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.3_36_27_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5714285714285714
+[-0.         -0.03032809]
+Start tc for all application
+Container DDS1 now has 19bps BW
+Container DDS2 now has 31bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=1.3467362844636157e-09), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-3.2174201081147658e-09)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7422680412371135
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6666666666666667
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7272727272727273
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7200000000000001
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 21bps BW
+Container DDS2 now has 29bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=1.791116480390891), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-1.7911164806921942)]
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7200000000000001
+Notified container DDS2 for realloction
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7272727272727273
+Notified container DDS1 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7142857142857143
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8201438848920863
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 22bps BW
+Container DDS2 now has 28bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=0.8845769100667256), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-0.884576910110737)]
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7142857142857143
+Notified container DDS2 for realloction
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8201438848920863
+Notified container DDS1 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7999999999999999
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6796116504854368
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 23bps BW
+Container DDS2 now has 27bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=0.5019280493394316), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-0.5019280493490923)]
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7999999999999999
+Notified container DDS2 for realloction
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6796116504854368
+Notified container DDS1 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.4347826086956521
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.75
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 23bps BW
+Container DDS2 now has 27bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=0.17605046595411533), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-0.1760505398946961)]
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.4347826086956521
+Notified container DDS2 for realloction
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8
+Notified container DDS1 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.608695652173913
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6792452830188679
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 23bps BW
+Container DDS2 now has 27bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=0.17605046595411533), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-0.1760505398946961)]
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.608695652173913
+Notified container DDS2 for realloction
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6792452830188679
+Notified container DDS1 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.48275862068965514
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6557377049180328
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 23bps BW
+Container DDS2 now has 27bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=0.17605046595411533), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-0.1760505398946961)]
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.48275862068965514
+Notified container DDS2 for realloction
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6557377049180328
+Notified container DDS1 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7407407407407406
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.634920634920635
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 23bps BW
+Container DDS2 now has 27bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=0.17605046595411533), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-0.1760505398946961)]
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7407407407407406
+Notified container DDS2 for realloction
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6551724137931034
+Notified container DDS1 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.4_36_30_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.48275862068965525
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6466165413533834
+[-0.         -0.02244669]
+Start tc for all application
+Container DDS1 now has 19bps BW
+Container DDS2 now has 31bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-3.999999990750322), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=3.9999999905581127)]
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.4_36_30_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.48275862068965525
+Notified container DDS2 for realloction
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6466165413533834
+Notified container DDS1 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5714285714285715
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7205882352941176
+[-0.         -0.04778973]
+Start tc for all application
+Container DDS1 now has 19bps BW
+Container DDS2 now has 31bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=8.312882554997193e-10), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-1.6077077447107513e-09)]
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5714285714285715
+Notified container DDS2 for realloction
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7205882352941176
+Notified container DDS1 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6481481481481483
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8260869565217391
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 21bps BW
+Container DDS2 now has 29bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=1.791116480390891), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-1.7911164806921942)]
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8260869565217391
+Notified container DDS2 for realloction
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6949152542372882
+Notified container DDS1 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6756756756756757
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8510638297872342
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 22bps BW
+Container DDS2 now has 28bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=0.8845769100667256), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-0.884576910110737)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6756756756756757
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.684931506849315
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.4444444444444444
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7311827956989247
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 23bps BW
+Container DDS2 now has 27bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=0.5019280493394316), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-0.5019280493490923)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.4444444444444444
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7311827956989247
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6341463414634146
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.691588785046729
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 23bps BW
+Container DDS2 now has 27bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=0.17605046595411533), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-0.1760505398946961)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5263157894736842
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.691588785046729
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6976744186046512
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7731092436974789
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 23bps BW
+Container DDS2 now has 27bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=0.17605046595411533), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-0.1760505398946961)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6976744186046512
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7611940298507462
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.817391304347826
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 23bps BW
+Container DDS2 now has 27bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=0.17605046595411533), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-0.1760505398946961)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.817391304347826
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7142857142857143
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6823529411764706
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 23bps BW
+Container DDS2 now has 27bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=0.17605046595411533), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-0.1760505398946961)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7142857142857143
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6823529411764706
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6666666666666667
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7105263157894737
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 23bps BW
+Container DDS2 now has 27bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=0.17605046595411533), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-0.1760505398946961)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7142857142857143
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7105263157894737
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7272727272727272
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7160493827160495
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 23bps BW
+Container DDS2 now has 27bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=0.17605046595411533), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-0.1760505398946961)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7272727272727272
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7160493827160495
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5263157894736842
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6595744680851064
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 23bps BW
+Container DDS2 now has 27bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=0.17605046595411533), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-0.1760505398946961)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5263157894736842
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6595744680851064
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.3_36_27_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5172413793103449
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7096774193548387
+[-0.03757381 -0.        ]
+Start tc for all application
+Container DDS1 now has 28bps BW
+Container DDS2 now has 22bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=4.599999999854596), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-4.599999999878396)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5853658536585367
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8607594936708861
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7692307692307692
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5652173913043478
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 27bps BW
+Container DDS2 now has 23bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-0.5019280493490914), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=0.5019280493394307)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5652173913043478
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7692307692307692
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8000000000000002
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6545454545454545
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 27bps BW
+Container DDS2 now has 23bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-0.1760505398943577), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=0.17605046595377694)]
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8000000000000002
+Notified container DDS2 for realloction
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6545454545454545
+Notified container DDS1 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7391304347826088
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6046511627906976
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 27bps BW
+Container DDS2 now has 23bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-0.1760505398943577), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=0.17605046595377694)]
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7391304347826088
+Notified container DDS2 for realloction
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7037037037037038
+Notified container DDS1 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7540983606557378
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7200000000000001
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 27bps BW
+Container DDS2 now has 23bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-0.1760505398943577), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=0.17605046595377694)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7200000000000001
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7540983606557378
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7333333333333333
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5660377358490566
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 27bps BW
+Container DDS2 now has 23bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-0.1760505398943577), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=0.17605046595377694)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5660377358490566
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7297297297297297
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5217391304347826
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.84375
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 27bps BW
+Container DDS2 now has 23bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-0.1760505398943577), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=0.17605046595377694)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5217391304347826
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.84375
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_27_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.4444444444444444
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8809523809523809
+[-0.00949668 -0.        ]
+Start tc for all application
+Container DDS1 now has 31bps BW
+Container DDS2 now has 19bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=3.999999998705098), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=-3.9999999987120685)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_27_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.4444444444444444
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8809523809523809
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8095238095238096
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6274509803921569
+[-0.0165426 -0.       ]
+Start tc for all application
+Container DDS1 now has 31bps BW
+Container DDS2 now has 19bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-5.807960334891504e-09), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=2.15142882323967e-09)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5416666666666666
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.8095238095238096
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.775
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6399999999999999
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 29bps BW
+Container DDS2 now has 21bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-1.7911164806921978), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=1.791116480390894)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6399999999999999
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.775
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7246376811594203
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5217391304347827
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 28bps BW
+Container DDS2 now has 22bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-0.8845769101107361), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=0.8845769100667238)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.5217391304347827
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7605633802816901
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6666666666666666
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6666666666666667
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 27bps BW
+Container DDS2 now has 23bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-0.5019280493490914), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=0.5019280493394307)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6666666666666667
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6666666666666666
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7450980392156864
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.625
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 27bps BW
+Container DDS2 now has 23bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-0.1760505398943577), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=0.17605046595377694)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.625
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7450980392156864
+Notified container DDS2 for realloction
+Send GetGraident request
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.6382978723404256
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7654320987654322
+[-0. -0.]
+Start tc for all application
+Container DDS1 now has 27bps BW
+Container DDS2 now has 23bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f610>, is_succeed=True, amount=-0.1760505398943577), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7f830598f490>, is_succeed=True, amount=0.17605046595377694)]
+DDS1 changes to /home/cc/dds1/workspace/results/trafficcam_1_dds_0.2_0.2_36_28_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.888888888888889
+Notified container DDS1 for realloction
+DDS2 changes to /home/cc/dds2/workspace/results/trafficcam_2_dds_0.2_0.2_36_29_0.0_twosides_batch_15_0.5_0.3_0.01 with max f1 0.7654320987654322
+Notified container DDS2 for realloction
+done

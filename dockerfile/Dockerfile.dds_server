@@ -1,0 +1,24 @@
+FROM tensorflow/tensorflow:1.14.0-gpu-py3
+
+# noninteractive only when build
+ARG DEBIAN_FRONTEND=noninteractive
+
+# install dependencies
+RUN apt-key del 7fa2af80\
+	&& apt-key adv --fetch-keys\
+		https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/3bf863cc.pub\
+	&& apt update\
+    && apt install wget ffmpeg libgl1 -y\
+	&& apt clean
+
+RUN pip install --upgrade pip\
+	&& pip install flask munch networkx pyyaml requests opencv-contrib-python grpcio
+
+# copy source code to container
+COPY src /src
+ENV PYTHONPATH=/src:$PYTHONPATH
+ENV TF_CPP_MIN_LOG_LEVEL=2
+ENV CONCIERGE_URI='host.docker.internal:5000'
+ENV FLASK_APP=/src/app/dds/backend/backend.py
+
+WORKDIR /src/app/dds

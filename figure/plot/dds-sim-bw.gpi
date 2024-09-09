@@ -1,0 +1,37 @@
+set output "eps/dds-sim-bw.eps"
+set terminal postscript eps color 24 font "Times-Roman"
+set size 1, 0.6
+
+set multiplot layout 2,1
+
+set xlabel "Time (s)"
+unset xrange
+set xtics 0,20,120
+set ylabel "Bandwidth (KBps)"
+set size 0.5, 0.5
+set origin 0, 0.1
+set label 11 center at graph 0.5,graph -0.6 "(a) Bandwidth Allocation" 
+
+set yrange [0:55]
+max(x)  = 50
+set label 1 center at 55,40 front "DDS 2 Allocation"
+set label 2 center at 55,10 front "DDS 1 Allocation"
+plot \
+	max(x) 	t ""	w filledcurves  above y=0 lt 1 fs solid 0.3 noborder,\
+	max(x) 	t ""	w l lt 1 lw 6,\
+	'dat/dds-sim/dds1-sim-bw.dat'	u ($1/2):2 title '' 	w filledcurves above y=0 fs solid 0.3 noborder,\
+	'dat/dds-sim/dds1-sim-bw.dat'	u ($1/2):2 title '' 	w l lc rgb "#2C9FFE" lw 6
+
+#unset label 1
+#unset label 2
+#set xlabel "Time (s)"
+#set ylabel "F1 Improvment (%)"
+#unset yrange
+#set size 0.5, 0.5
+#set origin 0.5, 0.1
+#set label 11 at graph 0.4,graph -0.6 "(b) DDS Improvement"
+#set key samplen 1 horizontal right outside top center
+#
+#plot \
+#	'dat/dds-sim/dds1-sim-improve.dat'	u ($1/5):2 title 'DDS1' 	w l lt 1 lw 6,\
+#	'dat/dds-sim/dds2-sim-improve.dat'	u ($1/5):2 title 'DDS2' 	w l lc rgb "#2C9FFE" lw 6

@@ -1,0 +1,43 @@
+syntax = "proto3";
+import "google/protobuf/empty.proto";
+
+service Concierge {
+	rpc CheckinApp(AppInfo) returns (Status) {}
+	rpc RequestResource(ResRequest) returns (Status) {}
+	rpc ReadyToProfile(PID) returns (Status) {}
+	rpc DoneProfile(PID) returns (Status) {}
+	rpc SubmitGPUJob(AppInfo) returns (Status) {}
+	rpc DoneGPUJob(google.protobuf.Empty) returns (Status) {}
+	rpc DoneInference(AppInfo) returns (Status) {}
+	rpc BaselineBW(BaselineInfo) returns (Status) {}
+}
+
+message AppInfo {
+	string container_id = 1;
+	string server_uri = 2;
+	string client_uri = 3;
+	uint32 server_port = 4;
+	bool is_faked = 5;
+	uint64 pid = 6;
+}
+
+message BaselineInfo {
+	string container_id = 1;
+	repeated double f1_scores = 2 [packed=true];
+}
+
+message PID {
+	string container_id = 1;
+	uint32 pid = 2;
+	string resource_t = 3;
+}
+
+message ResRequest {
+	string container_id = 1;
+	string resource_t = 2;
+	float amount = 3;
+}
+
+message Status {
+	bool is_succeed = 1;
+}

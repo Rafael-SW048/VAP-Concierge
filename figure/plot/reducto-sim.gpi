@@ -1,0 +1,21 @@
+set output "eps/reducto-sim-f1.eps"
+set terminal postscript eps color 24 font "Times-Roman"
+set size 0.7, 0.6
+
+set boxwidth 0.5
+set style fill solid 1.00 border lt -1
+set xtics ("Reducto1" 0.5, "Reducto2" 2)
+set xrange [-0.5:3]
+unset xlabel
+set yrange [0:100]
+set ylabel offset character 1.5,0'F1 Score (%)'
+set key horizontal Right
+set key samplen 1.5 out center top spacing 2
+
+set label 1 center at 0.25,91 "81%"
+set label 2 center at 0.75,82 "72%"
+set label 3 center at 1.75,84 "74%"
+set label 4 center at 2.25,72 "62%"
+plot \
+    'dat/reducto-sim/reducto-sim-compare.dat' every 2::1 using 1:2 title "VideoStorm" 				with boxes lt 1, \
+	'dat/reducto-sim/reducto-sim-compare.dat' every 2    using 1:2 title "Ours" 	with boxes lt 2

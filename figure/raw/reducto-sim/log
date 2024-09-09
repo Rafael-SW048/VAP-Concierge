@@ -1,0 +1,597 @@
+Error: Invalid handle.
+Concierge initlized
+Illegal "match"
+Container DDS2 now has 10bps BW
+Notified container DDS2 for realloction
+Notified container DDS2 for realloction
+App from localhost:5002 checked in
+"rate" is required.
+Illegal "match"
+Container DDS2 now has 5bps BW
+Notified container DDS2 for realloction
+Notified container DDS2 for realloction
+Container DDS1 now has 5bps BW
+Notified container DDS1 for realloction
+Notified container DDS1 for realloction
+App from localhost:5001 checked in
+Read from 0 to 30
+Read from 0 to 30
+Read from 30 to 60
+Read from 30 to 60
+Send GetGraident request
+Read from 60 to 90
+Read from 60 to 90
+Read from 30 to 60
+Read from 30 to 60
+[-0.         -0.53333336]
+Start tc for all application
+Container DDS2 now has 4bps BW
+Container DDS1 now has 6bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=-0.9999999999956779), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=0.9999999999956777)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 90 to 120
+Read from 90 to 120
+Read from 120 to 150
+Read from 120 to 150
+Send GetGraident request
+Read from 150 to 180
+Read from 150 to 180
+Read from 120 to 150
+Read from 120 to 150
+[-0.83333331 -0.44444445]
+Start tc for all application
+Container DDS2 now has 5bps BW
+Container DDS1 now has 5bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=0.799999991781263), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=-0.7999999917812637)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 180 to 210
+Read from 180 to 210
+Read from 210 to 240
+Read from 210 to 240
+Read from 240 to 270
+Read from 240 to 270
+Send GetGraident request
+Read from 270 to 300
+Read from 270 to 300
+Read from 240 to 270
+Read from 240 to 270
+[-0.         -0.53333336]
+Start tc for all application
+Container DDS2 now has 4bps BW
+Container DDS1 now has 6bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=-0.9999999999956779), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=0.9999999999956777)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 300 to 330
+Read from 300 to 330
+Read from 330 to 360
+Read from 330 to 360
+Send GetGraident request
+Read from 360 to 390
+Read from 360 to 390
+Read from 330 to 360
+Read from 330 to 360
+[-0.83333331 -0.37037036]
+Start tc for all application
+Container DDS2 now has 5bps BW
+Container DDS1 now has 5bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=0.7999999914844946), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=-0.7999999914844943)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 390 to 420
+Read from 390 to 420
+Read from 420 to 450
+Read from 420 to 450
+Read from 450 to 480
+Read from 450 to 480
+Send GetGraident request
+Read from 480 to 510
+Read from 480 to 510
+Read from 450 to 480
+Read from 450 to 480
+[-0.         -0.53333336]
+Start tc for all application
+Container DDS2 now has 4bps BW
+Container DDS1 now has 6bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=-0.9999999999956779), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=0.9999999999956777)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 510 to 540
+Read from 510 to 540
+Read from 540 to 570
+Read from 540 to 570
+Send GetGraident request
+Read from 570 to 600
+Read from 570 to 600
+Read from 540 to 570
+Read from 540 to 570
+[-0.         -0.37037036]
+Start tc for all application
+Container DDS2 now has 3bps BW
+Container DDS1 now has 7bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=-0.7999999909584742), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=0.7999999909584747)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 600 to 630
+Read from 600 to 630
+Read from 630 to 660
+Read from 630 to 660
+Read from 660 to 690
+Read from 660 to 690
+Send GetGraident request
+Read from 690 to 720
+Read from 690 to 720
+Read from 660 to 690
+Read from 660 to 690
+[-0.         -0.34013605]
+Start tc for all application
+Container DDS2 now has 2bps BW
+Container DDS1 now has 8bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=-0.599999999988677), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=0.5999999999886727)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 720 to 750
+Read from 720 to 750
+Read from 750 to 780
+Read from 750 to 780
+Send GetGraident request
+Read from 780 to 810
+Read from 780 to 810
+Read from 750 to 780
+Read from 750 to 780
+[-1.66666663 -0.41666666]
+Start tc for all application
+Container DDS2 now has 3bps BW
+Container DDS1 now has 7bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=0.4000000000809316), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=-0.40000000005419833)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 810 to 840
+Read from 810 to 840
+Read from 840 to 870
+Read from 840 to 870
+Read from 870 to 900
+Read from 870 to 900
+Send GetGraident request
+Read from 900 to 930
+Read from 900 to 930
+Read from 870 to 900
+Read from 870 to 900
+[-0.         -0.47619048]
+Start tc for all application
+Container DDS2 now has 2bps BW
+Container DDS1 now has 8bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=-0.5999999999954047), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=0.5999999999954033)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 930 to 960
+Read from 930 to 960
+Read from 960 to 990
+Read from 960 to 990
+Send GetGraident request
+Read from 990 to 1020
+Read from 990 to 1020
+Read from 960 to 990
+Read from 960 to 990
+[-0.         -0.41666666]
+Start tc for all application
+Container DDS2 now has 2bps BW
+Container DDS1 now has 8bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=1.6377929648638304e-10), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=1.2041612151847403e-10)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 1020 to 1050
+Read from 1020 to 1050
+Read from 1050 to 1080
+Read from 1050 to 1080
+Read from 1080 to 1110
+Read from 1080 to 1110
+Send GetGraident request
+Read from 1110 to 1140
+Read from 1110 to 1140
+Read from 1080 to 1110
+Read from 1080 to 1110
+[-0.     -0.3125]
+Start tc for all application
+Container DDS2 now has 2bps BW
+Container DDS1 now has 8bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=2.353239383018966e-10), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=4.999407554606705e-10)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 1140 to 1170
+Read from 1140 to 1170
+Read from 1170 to 1200
+Read from 1170 to 1200
+Send GetGraident request
+Read from 1200 to 1230
+Read from 1200 to 1230
+Read from 1170 to 1200
+Read from 1170 to 1200
+[-1.66666663 -0.41666666]
+Start tc for all application
+Container DDS2 now has 3bps BW
+Container DDS1 now has 7bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=0.4000000000809316), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=-0.40000000005419833)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 1230 to 1260
+Read from 1230 to 1260
+Read from 1260 to 1290
+Read from 1260 to 1290
+Read from 1290 to 1320
+Read from 1290 to 1320
+Send GetGraident request
+Read from 1320 to 1350
+Read from 1320 to 1350
+Read from 1290 to 1320
+Read from 1290 to 1320
+[-1.11111116 -0.47619048]
+Start tc for all application
+Container DDS2 now has 4bps BW
+Container DDS1 now has 6bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=0.6000000000060188), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=-0.6000000000060188)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 1350 to 1380
+Read from 1350 to 1380
+Read from 1380 to 1410
+Read from 1380 to 1410
+Send GetGraident request
+Read from 1410 to 1440
+Read from 1410 to 1440
+Read from 1380 to 1410
+Read from 1380 to 1410
+[-0.         -0.37037036]
+Start tc for all application
+Container DDS2 now has 3bps BW
+Container DDS1 now has 7bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=-0.7999999909584742), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=0.7999999909584747)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 1440 to 1470
+Read from 1440 to 1470
+Read from 1470 to 1500
+Read from 1470 to 1500
+Read from 1500 to 1530
+Read from 1500 to 1530
+Send GetGraident request
+Read from 1530 to 1560
+Read from 1530 to 1560
+Read from 1500 to 1530
+Read from 1500 to 1530
+[-0.         -0.47619048]
+Start tc for all application
+Container DDS2 now has 2bps BW
+Container DDS1 now has 8bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=-0.5999999999954047), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=0.5999999999954033)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 1560 to 1590
+Read from 1560 to 1590
+Read from 1590 to 1620
+Read from 1590 to 1620
+Send GetGraident request
+Read from 1620 to 1650
+Read from 1620 to 1650
+Read from 1590 to 1620
+Read from 1590 to 1620
+[-0.         -0.41666666]
+Start tc for all application
+Container DDS2 now has 2bps BW
+Container DDS1 now has 8bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=1.6377929648638304e-10), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=1.2041612151847403e-10)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 1650 to 1680
+Read from 1650 to 1680
+Read from 1680 to 1710
+Read from 1680 to 1710
+Read from 1710 to 1740
+Read from 1710 to 1740
+Send GetGraident request
+Read from 1740 to 1770
+Read from 1740 to 1770
+Read from 1710 to 1740
+Read from 1710 to 1740
+[-0.         -0.41666666]
+Start tc for all application
+Container DDS2 now has 2bps BW
+Container DDS1 now has 8bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=1.6377929648638304e-10), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=1.2041612151847403e-10)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 1770 to 1800
+Read from 1770 to 1800
+Read from 1800 to 1830
+Read from 1800 to 1830
+Send GetGraident request
+Read from 1830 to 1860
+Read from 1830 to 1860
+Read from 1800 to 1830
+Read from 1800 to 1830
+[-0.83333331 -0.        ]
+Start tc for all application
+Container DDS2 now has 3bps BW
+Container DDS1 now has 7bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=0.40000000000514), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=-0.39999999999915437)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 1860 to 1890
+Read from 1860 to 1890
+Read from 1890 to 1920
+Read from 1890 to 1920
+Read from 1920 to 1950
+Read from 1920 to 1950
+Send GetGraident request
+Read from 1950 to 1980
+Read from 1950 to 1980
+Read from 1920 to 1950
+Read from 1920 to 1950
+[-0.74074072 -0.        ]
+Start tc for all application
+Container DDS2 now has 4bps BW
+Container DDS1 now has 6bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=0.6000000000040469), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=-0.6000000000040472)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 1980 to 2010
+Read from 1980 to 2010
+Read from 2010 to 2040
+Read from 2010 to 2040
+Send GetGraident request
+Read from 2040 to 2070
+Read from 2040 to 2070
+Read from 2010 to 2040
+Read from 2010 to 2040
+[-0.625      -0.55555558]
+Start tc for all application
+Container DDS2 now has 5bps BW
+Container DDS1 now has 5bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=0.7999999926335182), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=-0.7999999926334824)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 2070 to 2100
+Read from 2070 to 2100
+Read from 2100 to 2130
+Read from 2100 to 2130
+Read from 2130 to 2160
+Read from 2130 to 2160
+Send GetGraident request
+Read from 2160 to 2190
+Read from 2160 to 2190
+Read from 2130 to 2160
+Read from 2130 to 2160
+[-0.53333336 -0.        ]
+Start tc for all application
+Container DDS2 now has 6bps BW
+Container DDS1 now has 4bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=0.9999999999956783), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=-0.9999999999956779)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 2190 to 2220
+Read from 2190 to 2220
+Read from 2220 to 2250
+Read from 2220 to 2250
+Send GetGraident request
+Read from 2250 to 2280
+Read from 2250 to 2280
+Read from 2220 to 2250
+Read from 2220 to 2250
+[-0.37037036 -0.        ]
+Start tc for all application
+Container DDS2 now has 7bps BW
+Container DDS1 now has 3bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=0.7999999909584736), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=-0.7999999909584742)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 2280 to 2310
+Read from 2280 to 2310
+Read from 2310 to 2340
+Read from 2310 to 2340
+Read from 2340 to 2370
+Read from 2340 to 2370
+Send GetGraident request
+Read from 2370 to 2400
+Read from 2370 to 2400
+Read from 2340 to 2370
+Read from 2340 to 2370
+[-0.47619048 -0.        ]
+Start tc for all application
+Container DDS2 now has 8bps BW
+Container DDS1 now has 2bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=0.5999999999954191), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=-0.5999999999954047)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 2400 to 2430
+Read from 2400 to 2430
+Read from 2430 to 2460
+Read from 2430 to 2460
+Send GetGraident request
+Read from 2460 to 2490
+Read from 2460 to 2490
+Read from 2430 to 2460
+Read from 2430 to 2460
+[-0.41666666 -0.        ]
+Start tc for all application
+Container DDS2 now has 8bps BW
+Container DDS1 now has 2bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=1.2041612151847403e-10), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=1.6377929648582397e-10)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 2490 to 2520
+Read from 2490 to 2520
+Read from 2520 to 2550
+Read from 2520 to 2550
+Read from 2550 to 2580
+Read from 2550 to 2580
+Send GetGraident request
+Read from 2580 to 2610
+Read from 2580 to 2610
+Read from 2550 to 2580
+Read from 2550 to 2580
+[-0.35714287 -0.        ]
+Start tc for all application
+Container DDS2 now has 8bps BW
+Container DDS1 now has 2bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=3.0007685225541536e-10), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=2.0281765152482002e-10)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 2610 to 2640
+Read from 2610 to 2640
+Read from 2640 to 2670
+Read from 2640 to 2670
+Send GetGraident request
+Read from 2670 to 2700
+Read from 2670 to 2700
+Read from 2640 to 2670
+Read from 2640 to 2670
+[-0.3125 -0.    ]
+Start tc for all application
+Container DDS2 now has 8bps BW
+Container DDS1 now has 2bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=4.999407554606705e-10), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=2.353239382993352e-10)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 2700 to 2730
+Read from 2700 to 2730
+Read from 2730 to 2760
+Read from 2730 to 2760
+Read from 2760 to 2790
+Read from 2760 to 2790
+Send GetGraident request
+Read from 2790 to 2820
+Read from 2790 to 2820
+Read from 2760 to 2790
+Read from 2760 to 2790
+[-0.41666666 -0.        ]
+Start tc for all application
+Container DDS2 now has 8bps BW
+Container DDS1 now has 2bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=1.2041612151847403e-10), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=1.6377929648582397e-10)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 2820 to 2850
+Read from 2820 to 2850
+Read from 2850 to 2880
+Read from 2850 to 2880
+Send GetGraident request
+Read from 2880 to 2910
+Read from 2880 to 2910
+Read from 2850 to 2880
+Read from 2850 to 2880
+[-0.41666666 -0.        ]
+Start tc for all application
+Container DDS2 now has 8bps BW
+Container DDS1 now has 2bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=1.2041612151847403e-10), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=1.6377929648582397e-10)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 2910 to 2940
+Read from 2910 to 2940
+Read from 2940 to 2970
+Read from 2940 to 2970
+Read from 2970 to 3000
+Read from 2970 to 3000
+Send GetGraident request
+Read from 3000 to 3030
+Read from 3000 to 3030
+Read from 2970 to 3000
+Read from 2970 to 3000
+[-0.3125 -0.    ]
+Start tc for all application
+Container DDS2 now has 8bps BW
+Container DDS1 now has 2bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=4.999407554606705e-10), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=2.353239382993352e-10)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 3030 to 3060
+Read from 3030 to 3060
+Read from 3060 to 3090
+Read from 3060 to 3090
+Send GetGraident request
+Read from 3090 to 3120
+Read from 3090 to 3120
+Read from 3060 to 3090
+Read from 3060 to 3090
+[-0.41666666 -0.        ]
+Start tc for all application
+Container DDS2 now has 8bps BW
+Container DDS1 now has 2bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=1.2041612151847403e-10), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=1.6377929648582397e-10)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 3120 to 3150
+Read from 3120 to 3150
+Read from 3150 to 3180
+Read from 3150 to 3180
+Read from 3180 to 3210
+Read from 3180 to 3210
+Send GetGraident request
+Read from 3210 to 3240
+Read from 3210 to 3240
+Read from 3180 to 3210
+Read from 3180 to 3210
+[-0.3125 -0.    ]
+Start tc for all application
+Container DDS2 now has 8bps BW
+Container DDS1 now has 2bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=4.999407554606705e-10), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=2.353239382993352e-10)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 3240 to 3270
+Read from 3240 to 3270
+Read from 3270 to 3300
+Read from 3270 to 3300
+Send GetGraident request
+Read from 3300 to 3330
+Read from 3300 to 3330
+Read from 3270 to 3300
+Read from 3270 to 3300
+[-0.3125     -1.66666663]
+Start tc for all application
+Container DDS2 now has 7bps BW
+Container DDS1 now has 3bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=-0.4000000000914974), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=0.400000000135286)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 3330 to 3360
+Read from 3330 to 3360
+Read from 3360 to 3390
+Read from 3360 to 3390
+Read from 3390 to 3420
+Read from 3390 to 3420
+Send GetGraident request
+Read from 3420 to 3450
+Read from 3420 to 3450
+Read from 3390 to 3420
+Read from 3390 to 3420
+[-0.34013605 -0.        ]
+Start tc for all application
+Container DDS2 now has 8bps BW
+Container DDS1 now has 2bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=0.599999999988676), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=-0.599999999988677)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 3450 to 3480
+Read from 3450 to 3480
+Read from 3480 to 3510
+Read from 3480 to 3510
+Send GetGraident request
+Read from 3510 to 3540
+Read from 3510 to 3540
+Read from 3480 to 3510
+Read from 3480 to 3510
+[-0.41666666 -0.        ]
+Start tc for all application
+Container DDS2 now has 8bps BW
+Container DDS1 now has 2bps BW
+[Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc610>, is_succeed=True, amount=1.2041612151847403e-10), Allocation(app=<api.pipeline_repr.PipelineRepr object at 0x7fe215adc640>, is_succeed=True, amount=1.6377929648582397e-10)]
+Notified container DDS2 for realloction
+Notified container DDS1 for realloction
+Read from 3540 to 3570
+Read from 3540 to 3570
+Read from 3570 to 3600
+Read from 3570 to 3600
+Send GetGraident request

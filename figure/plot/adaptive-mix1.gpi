@@ -1,0 +1,26 @@
+set output "eps/mix-adaptive1.eps"
+set terminal postscript eps color 20
+set size 2,1
+
+set xlabel 'Frame Number'
+set xtics 0,200,1321
+
+set arrow from 330,graph(0,0) 	to 330,graph(1,1) 	nohead	dt 2	lw 3
+set arrow from 660,graph(0,0) 	to 660,graph(1,1) 	nohead	dt 2	lw 3
+set arrow from 990,graph(0,0) 	to 990,graph(1,1) 	nohead	dt 2	lw 3
+
+set multiplot layout 1,2
+
+set ylabel 'Resolution'
+set size 1,1
+set origin 0,0
+plot \
+	'dat/mix12/adaptive-mix1.dat'	u 1:4	title ''	w l lc rgb 'blue'	lw 3
+
+set size 1,1
+set origin 1,0
+set ylabel 'F1 Improvement'
+plot \
+	'dat/mix12/adaptive-mix1.dat'	u 1:7 	title ''	w l lc rgb 'red'	lw 3
+	
+

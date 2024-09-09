@@ -1,0 +1,50 @@
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+
+service Pipeline {
+	rpc GetDiff(ResourceType) returns (Diff) {}
+	rpc NotifyReallocation(Notification) returns (IsNotified) {}
+	rpc StartProfile(ResourceChange) returns (IsNotified) {}
+	rpc RefillToken(NewTokens) returns (IsNotified) {}
+	rpc StartGPUJob(google.protobuf.Empty) returns (IsNotified) {}
+	rpc EndInference(google.protobuf.Empty) returns (IsNotified) {}
+}
+
+message ResourceChange {
+	float change = 1;
+	bool can_proceed = 2;
+}
+
+message ResourceType {
+	string resource_t = 1;
+}
+
+message Diff {
+	float infer_diff = 1;
+	float latency_diff = 2;
+	float infer_diff_high = 3;
+	float infer_diff_low = 4;
+	float bw_lower_bound = 5;
+	bool is_min_bw = 6;
+	uint32 curr_frame = 7;
+	float curr_f1 = 8;
+	float curr_budget = 9;
+}
+
+message Notification {
+	bool is_succeed = 1;
+	float actual_amount = 2;
+	string resource_t = 3;
+	bool can_clear_profiling_flag = 4;
+	bool is_min_bw = 5;
+	bool can_proceed = 6;
+}
+
+message IsNotified {
+	bool notified = 1;
+}
+
+message NewTokens {
+	int32 amount = 1;
+}

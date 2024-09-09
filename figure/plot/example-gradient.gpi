@@ -1,0 +1,77 @@
+set output "eps/example-gradient.eps"
+set terminal postscript eps color 26 font "Times-Roman"
+set size 1,0.7
+set multiplot 
+
+b1(x) = 500
+b2(x) = x < 25 ? 118 : x < 30 ? 168 : x < 35 ? 218 : x < 40 ? 268 : x < 45 ? 318 : x < 50 ? 368 : 418
+f1(x) = x < 25 ? 94 : x < 30 ? 72 : x < 35 ? 79 : x < 40 ? 85 : x < 45 ? 89 : x < 50 ? 92 : 94
+set xrange[0:60]
+set xtics 0,5,60
+set yrange[0:550]
+set ytics 0,150, 600
+set size 1,0.35
+set origin 0,0.35
+unset xtics
+plot \
+	b1(x) 	t "" 	w fillsteps fs solid 0.3 noborder,\
+	b1(x)	t ""	w step lw 6 lt 1,\
+	b2(x) 	t ""	w fillsteps fs solid 0.3 noborder,\
+	b2(x)	t ""	w step lw 6 lt 2
+
+set xtics
+unset label 1
+unset label 2
+set xlabel "Time (s)"
+set yrange [60:100]
+set ytics 60,20,100
+set size 1, 0.35
+set origin 0, 0
+plot \
+	f1(x) 	title ''	w l lc rgb 'black'	lw 6
+
+#b1(x) = 500
+#b2(x) = x < 25 ? 118 : 382
+#set size 0.5,0.4
+#set origin 0.5, 0.5
+#set label 1 at 10,50 front "VAP 1 Allocation"
+#set label 2 at 5,450 front "VAP 2 Allocation"
+#set label 11 "(f) Ideal Resource Management"
+#plot \
+#	b1(x) 	t ""	w fillsteps fs solid 0.3 noborder,\
+#	b1(x)	t ""	w step lw 6 lt 1,\
+#	b2(x) 	t "" 	w fillsteps fs solid 0.3 noborder,\
+#	b2(x)	t ""	w step lw 6 lt 2
+#
+#
+#unset label 1
+#unset label 2
+#
+#set label 11 "(h) Gradient-based Allocation"
+#set ylabel "Bandwidth (Kbps)"
+#set yrange [0:550]
+#set size 0.5,0.4
+#set origin 0.5, 0
+#set label 1 at 10,50 front "VAP 1 Allocation"
+#set label 2 at 5,450 front "VAP 2 Allocation"
+#b1(x) = 500
+#b2(x) = x < 25 ? 118 : x < 30 ? 168 : x < 35 ? 218 : x < 40 ? 268 : x < 45 ? 318 : x < 50 ? 368 : 418
+#plot \
+#	b1(x) 	t ""	w fillsteps fs solid 0.3 noborder,\
+#	b1(x)	t ""	w step lw 6 lt 1,\
+#	b2(x) 	t "" 	w fillsteps fs solid 0.3 noborder,\
+#	b2(x)	t ""	w step lw 6 lt 2
+
+#set label 11 "(g) Total Normalized F1 Score"
+#set size 0.5,0.4
+#set origin 0,0
+#set xrange[0:60]
+#set xlabel "Time (s)"
+#set yrange[0:100]
+#set ylabel "F1 Score (%)"
+#set key bottom right samplen 2
+#f1(x) = x < 25 ? 94 : 72
+#f2(x) = x < 25 ? 94 : x < 30 ? 72 : x < 35 ? 79 : x < 40 ? 85 : x < 45 ? 89 : x < 50 ? 92 : 94
+#plot \
+#	f1(x) 	title 'Baseline'	w l lc rgb 'black'	lw 6,\
+#	f2(x) 	title 'Gradient-Based'	w l lc rgb 'red'	lw 6

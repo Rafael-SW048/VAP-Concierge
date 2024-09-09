@@ -1,0 +1,23 @@
+name: dds-adaptive
+channels:
+  - anaconda
+  - defaults
+dependencies:
+  - python=3.7.7
+  - tensorflow-gpu=1.14
+  - flask
+  - munch
+  - networkx
+  - pyyaml
+  - requests
+  - pip
+  - numpy=1.16.4
+  - ffmpeg
+  - pandas
+  - scipy
+  - grpcio
+  - grpcio-tools
+  - pip:
+    - opencv-contrib-python
+ 
+

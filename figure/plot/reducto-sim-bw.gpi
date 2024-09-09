@@ -1,0 +1,41 @@
+set output "eps/reducto-sim-bw.eps"
+set terminal postscript eps color 24 font "Times-Roman"
+
+
+set xlabel "Time (s)"
+set xtics 0,20,120
+set ylabel "GPU Fraction (%)"
+set yrange [0:110]
+set size 0.5, 0.5
+set label 11 center at graph 0.5,graph -0.6 "(a) GPU Allocation" 
+set label 1 center at 40,20 "Reducto1" front
+set label 2 center at 92.5,80 "Reducto2" front
+
+max(x)  = 100
+plot \
+	max(x) 	t ""	w filledcurves  above y=0 lt 1 fs solid 0.3 noborder,\
+	max(x) 	t ""	w l lt 1 lw 6,\
+	'dat/reducto-sim/reducto1-sim-gpu.dat.bak'	u 1:2 title '' 	w filledcurves above y=0 fs solid 0.3 noborder,\
+	'dat/reducto-sim/reducto1-sim-gpu.dat.bak'	u 1:2 title '' 	w l lc rgb "#2C9FFE" lw 6
+
+#unset label 1
+#unset label 2
+#set xlabel "Time(s)"
+#set ylabel "GPU Fraction (%)"
+#set size 0.5, 0.5
+#set origin 0.5, 0.1
+#set label 11 "(b) Reducto 2 Allocation"
+
+#set xlabel "Time (s)"
+#set ylabel "F1 Improvment (%)"
+#unset yrange
+#set size 0.5, 0.5
+#set origin 0.5, 0.1
+#set ytics -40,20,40
+#set yrange [-40:45]
+#set label 11 at graph 0.4,graph -0.7 "(b) Reducto Improvement"
+#set key samplen 0.2 outside top horizontal
+#
+#plot \
+#	'dat/reducto-sim/reducto-sim-improve2'	u 1:2 title 'Reducto1' 	w l lt 1 lw 6,\
+#	'dat/reducto-sim/reducto-sim-improve1'	u 1:2 title 'Reducto2' 	w l lc rgb "#2C9FFE" lw 6

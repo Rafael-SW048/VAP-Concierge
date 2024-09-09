@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+
+service Edge {
+	rpc UpdateBitrate(Bitrate) returns (IsUpdated) {}
+	rpc NotifyJobDone(IsJobDone) returns (google.protobuf.Empty) {}
+}
+
+message Bitrate {
+	int32 bitrate = 1;
+}
+
+message IsUpdated {
+	bool updated = 1;
+}
+
+message IsJobDone {
+	bool done = 1;
+	int32 seg_idx = 2;
+}
+

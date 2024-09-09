@@ -1,0 +1,35 @@
+FROM continuumio/miniconda3
+
+# noninteractive only when build
+ARG DEBIAN_FRONTEND=noninteractive
+
+# install dependencies
+RUN apt update && apt upgrade -y\
+	&& apt install wget ffmpeg libgl1 openssh-server rename -y\
+	&& apt clean
+
+COPY vap-concierge/src/app/dds/conda_edge_env.yml /tmp/environment.yml
+RUN conda update -n base -c defaults conda\
+	&& conda env create -f /tmp/environment.yml\
+	&& conda init\
+	&& echo "conda activate dds" >> /root/.bashrc\
+	&& conda clean --all
+
+# allow ssh to the container as root and add local public key to the authorized keys
+RUN echo "PermitRootLogin without-password" > /etc/ssh/sshd_config
+RUN --mount=type=secret,id=my_secret mkdir -p -m 0600 /root/.ssh &&\
+	echo $(cat /run/secrets/my_secret) > /root/.ssh/authorized_keys
+
+# copy source code to container
+COPY vap-concierge/src /src
+COPY data-set-clean /data-set
+ENV PYTHONPATH=/src:$PYTHONPATH
+ENV TF_CPP_MIN_LOG_LEVEL=2
+ENV CONCIERGE_URI='192.5.86.150:5000'
+ENV GRPC_ENABLE_FORK_SUPPORT=false
+
+EXPOSE 22
+EXPOSE 5000-21000
+WORKDIR /src/app/dds/workspace
+
+CMD service ssh restart && bash
